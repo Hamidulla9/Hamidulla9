@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHi+guys!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Hamidulla+Nishonboyev;Uzbekistan's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/Hamidulla9/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=👋+Assalomu+alaykum!;✨+Hamidulla+Nishonboyev+profiliga+xush+kelibsiz!;👨‍💻+Backend+developer+%7C+Python+%7C+Django;📍+From+Uzbekistan;🌟+Open+source+lover+and+problem+solver;🚀+Real+world+projects+completed:+5+and+counting;💼+Working+at+Digital+Laboratory;🔗+Visit+my+LinkedIn+profile+below!)](https://www.linkedin.com/in/Hamidulla9/)
 
 <img width="750" height="350" src="https://user-images.githubusercontent.com/109679233/192133690-9e884a50-4b7c-41be-af04-a989947c455e.gif" alt="Welcome GIF" />
 
