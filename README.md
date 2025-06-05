@@ -18,8 +18,7 @@
 - 🧼 Focused on writing clean, efficient, and maintainable code  
 - 🌍 Interested in open-source and community-driven development  
 - 🧠 Always challenging myself to grow and solve complex problems  
-- 🔗 Reach me on [(@@Hamidulla_Nishonboyev)](https://t.me/Hamidulla_Nishonboyev)
-- 🌐 Check out my [Portfolio Website](https://hamidulla9.github.io/)
+- 🔗 Reach me on [@Hamidulla_Nishonboyev](https://t.me/Hamidulla_Nishonboyev)
 
 ---
 
