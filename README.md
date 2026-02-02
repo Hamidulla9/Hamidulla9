@@ -31,7 +31,7 @@
   
   <br><br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidulla9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidulla9&theme=vision-friendly-dark&layout=compact&count_private=true)
 
   <br>
 
