@@ -24,25 +24,26 @@
 
 ## 📈 GitHub Stats
 
-
 <div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamidulla9&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  <br><br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hamidulla9&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidulla9&theme=vision-friendly-dark&layout=compact&count_private=true)
+<br><br>
 
-  <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidulla9&theme=vision-friendly-dark&layout=compact)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamidulla9&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="FarhodGanijonov" />
+<br>
 
-  ---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamidulla9&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="FarhodGanijonov" />
 
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamidulla9&theme=aura_dark" height="180em" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamidulla9&theme=2077" height="180em" />
+---
 
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamidulla9&theme=aura_dark" height="180em" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamidulla9&theme=2077" height="180em" />
 
 </div>
